@@ -159,7 +159,7 @@ public class KitsCommand implements CommandExecutor {
             return;
         }
 
-        this.manager.giveKit(args[1], player);
+        this.manager.saveKit(args[1], "GRASS_BLOCK", args[1], player.getInventory(), 10000);
     }
 
     private void openKitsMenu(Player player) {
