@@ -1,0 +1,9 @@
+name: Kits
+version: 1.0.0
+author: SwitchGM_
+main: me.joe.kits_plugin.KitsPlugin
+api-version: 1.13
+depend: [Item_Me, GUIMe]
+commands:
+  kits:
+    description: Kits Plugin

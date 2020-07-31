@@ -1,0 +1,79 @@
+kits:
+  rank1:
+    icon: "BRICK"
+    name: "&a&lRank &2&l1"
+    items:
+      - "DIAMOND_HELMET,1"
+      - "DIAMOND_CHESTPLATE,1"
+      - "DIAMOND_LEGGINGS,1"
+      - "DIAMOND_BOOTS,1"
+      - "DIAMOND_SWORD,1"
+      - "DIAMOND_AXE,1"
+      - "DIAMOND_PICKAXE,1"
+      - "DIAMOND_SHOVEL,1"
+    cooldown: 100000
+  rank2:
+    icon: "COAL"
+    name: "&b&lRank &2&l3"
+    items:
+      - "rank2_helmet,1"
+      - "rank2_chestplate,1"
+      - "rank2_leggings,1"
+      - "rank2_boots,1"
+      - "rank2_sword,1"
+      - "rank2_axe,1"
+      - "rank2_pickaxe,1"
+      - "rank2_shovel,1"
+    cooldown: 100000
+  rank3:
+    icon: "IRON_INGOT"
+    name: "&e&lRank &6&l3"
+    items:
+      - "rank3_helmet,1"
+      - "rank3_chestplate,1"
+      - "rank3_leggings,1"
+      - "rank3_boots,1"
+      - "rank3_sword,1"
+      - "rank3_axe,1"
+      - "rank3_pickaxe,1"
+      - "rank3_shovel,1"
+    cooldown: 100000
+  rank4:
+    icon: "GOLD_INGOT"
+    name: "&d&lRank &5&l1"
+    items:
+      - "rank4_helmet,1"
+      - "rank4_chestplate,1"
+      - "rank4_leggings,1"
+      - "rank4_boots,1"
+      - "rank4_sword,1"
+      - "rank4_axe,1"
+      - "rank4_pickaxe,1"
+      - "rank4_shovel,1"
+    cooldown: 100000
+  rank5:
+    icon: "DIAMOND"
+    name: "&c&lRank &4&l1"
+    items:
+      - "rank5_helmet,1"
+      - "rank5_chestplate,1"
+      - "rank5_leggings,1"
+      - "rank5_boots,1"
+      - "rank5_sword,1"
+      - "rank5_axe,1"
+      - "rank5_pickaxe,1"
+      - "rank5_shovel,1"
+    cooldown: 100000
+  rank6:
+    icon: "EMERALD"
+    name: "&2&lRank &a&l6"
+    items:
+      - "rank6_helmet,1"
+      - "rank6_chestplate,1"
+      - "rank6_leggings,1"
+      - "rank6_boots,1"
+      - "rank6_sword,1"
+      - "rank6_axe,1"
+      - "rank6_pickaxe,1"
+      - "rank6_shovel,1"
+    cooldown: 100000
