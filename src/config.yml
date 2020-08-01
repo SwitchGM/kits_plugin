@@ -14,7 +14,7 @@ kits:
     cooldown: 100000
   rank2:
     icon: "COAL"
-    name: "&b&lRank &2&l3"
+    name: "&b&lRank &2&l2"
     items:
       - "rank2_helmet,1"
       - "rank2_chestplate,1"
@@ -40,7 +40,7 @@ kits:
     cooldown: 100000
   rank4:
     icon: "GOLD_INGOT"
-    name: "&d&lRank &5&l1"
+    name: "&d&lRank &5&l4"
     items:
       - "rank4_helmet,1"
       - "rank4_chestplate,1"
@@ -53,7 +53,7 @@ kits:
     cooldown: 100000
   rank5:
     icon: "DIAMOND"
-    name: "&c&lRank &4&l1"
+    name: "&c&lRank &4&l5"
     items:
       - "rank5_helmet,1"
       - "rank5_chestplate,1"
